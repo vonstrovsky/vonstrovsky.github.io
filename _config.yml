@@ -103,5 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gitee.com/vonstrovsky/vonstrovsky.git
+  #repo: https://gitee.com/vonstrovsky/vonstrovsky.git
+  repo: git@github.com:vonstrovsky/vonstrovsky.github.io.git
   branch: master
